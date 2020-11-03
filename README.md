@@ -1,3 +1,3 @@
 # ESTUDOS_SINTAXE_COBOL
 TREINO DE SINTAXE COBOL
-ESTUDOS DOS COMANDOS BÁSICOS ATRAVÉS DO SITE :https://www.tutorialspoint.com/
+ESTUDOS DOS COMANDOS BÁSICOS ATRAVÉS DO SITE :https://www.tutorialspoint.com/pg/cobol
